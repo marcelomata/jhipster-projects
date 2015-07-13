@@ -1,0 +1,18 @@
+{
+    "jhipsterApp": {
+        "empresa" : {
+            "home": {
+                "title": "Empresas",
+                "createLabel": "Create a new Empresa",
+                "createOrEditLabel": "Create or edit a Empresa"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Empresa {{ id }}?"
+            },
+            "detail": {
+                "title": "Empresa"
+            },
+            "nome": "Nome"
+        }
+    }
+}
