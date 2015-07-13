@@ -1,0 +1,19 @@
+{
+    "jhipsterApp": {
+        "empresa4" : {
+            "home": {
+                "title": "Empresa4s",
+                "createLabel": "Créer un nouveau Empresa4",
+                "createOrEditLabel": "Créer ou éditer un Empresa4"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Empresa4 {{ id }} ?"
+            },
+            "detail": {
+                "title": "Empresa4"
+            },
+            "nome": "Nome"
+        }
+    }
+}
+
