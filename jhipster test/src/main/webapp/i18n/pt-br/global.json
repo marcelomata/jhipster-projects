@@ -6,6 +6,10 @@
             "home": "Início",
             "entities": {
                 "main": "Entidades",
+                "empresa": "Empresa",
+                "empresa2": "Empresa2",
+                "empresa3": "Empresa3",
+                "empresa4": "Empresa4",
                 "additionalEntity": "JHipster will add additional entities here (do not translate!)"
             },
             "account": {
